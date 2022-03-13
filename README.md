@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://carnage1502.io) -->
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://carnage1502.io)
 <h1 align="center">Hi 👋, I'm SHIVAM SHARMA</h1>
 <h3 align="center" size="12">Future electronic's and communication engineer. I'm a third-year student at KIET Group of Institutions with dreams of working with an IT company after i graduate. I have a keen interest in coding and know Java & Python. And I'm an Web Development Enthusiast.</h3>
 
