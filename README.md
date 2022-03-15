@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms , React.js**
 
-- 📄 Resume [(https://drive.google.com/file/d/1Z57cklOsLNhy59bm1vhKOdOY-AX4BqHd/view?usp=sharing)]
+- 📄 [Resume] (https://drive.google.com/file/d/1Z57cklOsLNhy59bm1vhKOdOY-AX4BqHd/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny :-)**
 
