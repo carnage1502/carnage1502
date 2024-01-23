@@ -1,29 +1,26 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://carnage1502.io)
-<h1 align="center">Hi 👋, I'm SHIVAM SHARMA</h1>
-<h3 align="center" size="12">Future electronic's and communication engineer. I'm a third-year student at KIET Group of Institutions with dreams of working with an IT company after i graduate. I have a keen interest in coding and know Java & Python. And I'm an Web Development Enthusiast.</h3>
+👋 Hi, I'm Shivam Sharma, a passionate and aspiring Web Developer eager to make an impact with my skills in HTML, CSS, JavaScript, ReactJS, Next.js and Java. Beyond my coding endeavors, I immerse myself in 3D artistry using Blender software.
+I am a recent graduate with a Bachelor of Technology (B.Tech) in Electronics and Communications Engineering (ECE).
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
+My Resume:- (https://drive.google.com/file/d/16_rQ7pi61Eb-vqKnu2M7g1O7A0bCYXSn/view?usp=drive_link)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carnage1502&label=Profile%20views&color=0e75b6&style=flat" alt="carnage1502" /> </p>
+🛠️ My Skills:
 
-- 🌱 I’m currently learning **Data Structures & Algorithms , React.js**
+Proficient in HTML, CSS, and JavaScript, excited to shape visually appealing and functional websites.
+Exploring the power of ReactJS and Next.js to create dynamic and responsive web applications.
+My learning in engineering lays the groundwork for structured problem-solving and innovative thinking.
 
-- 📄 Resume (https://drive.google.com/file/d/1jbezDbiR4WzTX0Ti5u3yM4TAMvvIN_Qr/view?usp=sharing)
+💡 What I Bring:
 
-- ⚡ Fun fact **I think I am funny :-)**
+A hunger for learning and a commitment to staying ahead in the rapidly evolving world of web development.
+Ready to translate ideas into tangible, user-friendly web solutions and embrace new challenges with enthusiasm.
+A collaborative mindset, excited to contribute and grow within the web development community.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-sharma-967148193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-sharma-967148193/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/carnage1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="carnage1502" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/carnage1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="carnage1502" height="30" width="40" /></a>
-</p>
+🎯 My Goal:
+To learn, innovate, and contribute to crafting captivating web experiences that leave a lasting impression.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+🎨 Hobby:
+I'm also interested in the world of 3D artistry, particularly using Blender software.
+As an avid Blender 3D hobbyist, I immerse myself in the realm of creativity, sculpting, and visual storytelling. This passion fuels my ability to conceptualize and innovate in both design and development.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carnage1502&show_icons=true&locale=en&layout=compact" alt="carnage1502" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carnage1502&show_icons=true&locale=en" alt="carnage1502" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carnage1502&" alt="carnage1502" /></p>
+Let's Connect! Open to job opportunities, internships, and connections within the vibrant world of web development.
+Here's my LinkedIn :- (https://www.linkedin.com/in/shivam-sharma-967148193/) 
