@@ -1,7 +1,7 @@
 👋 Hi, I'm Shivam Sharma, a passionate and aspiring Web Developer eager to make an impact with my skills in HTML, CSS, JavaScript, ReactJS, Next.js and Java. Beyond my coding endeavors, I immerse myself in 3D artistry using Blender software.
 I am a recent graduate with a Bachelor of Technology (B.Tech) in Electronics and Communications Engineering (ECE).
 
-My Resume:- (https://drive.google.com/file/d/16_rQ7pi61Eb-vqKnu2M7g1O7A0bCYXSn/view?usp=drive_link)
+My Resume:- (https://drive.google.com/file/d/1Dtk6RZqfE3U5_2EboUzg1BDEJED1GnB3/view?usp=sharing)
 
 🛠️ My Skills:
 
